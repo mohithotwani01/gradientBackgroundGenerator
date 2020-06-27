@@ -1,1 +1,1 @@
-# gradientBackgroundGenerator
+# Gradient Background Generator
